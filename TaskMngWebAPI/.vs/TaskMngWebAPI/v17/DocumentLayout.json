@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F74DA083-2F2B-482C-93DE-F83E35C1C6F1}|TaskMng.Infrastructure\\TaskMng.Infrastructure.csproj|c:\\users\\r.kresoja\\onedrive - levi9 it services\\desktop\\code9\\code92024\\termin2\\exercise\\taskmngwebapi\\taskmng.infrastructure\\repositories\\todotaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74DA083-2F2B-482C-93DE-F83E35C1C6F1}|TaskMng.Infrastructure\\TaskMng.Infrastructure.csproj|solutionrelative:taskmng.infrastructure\\repositories\\todotaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74DA083-2F2B-482C-93DE-F83E35C1C6F1}|TaskMng.Infrastructure\\TaskMng.Infrastructure.csproj|c:\\users\\r.kresoja\\onedrive - levi9 it services\\desktop\\code9\\code92024\\termin2\\exercise\\taskmngwebapi\\taskmng.infrastructure\\entityconfiguration\\todotaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74DA083-2F2B-482C-93DE-F83E35C1C6F1}|TaskMng.Infrastructure\\TaskMng.Infrastructure.csproj|solutionrelative:taskmng.infrastructure\\entityconfiguration\\todotaskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C45DCB-9BE5-4284-AB74-03A3178EC82C}|TaskMng.Domain\\TaskMng.Domain.csproj|c:\\users\\r.kresoja\\onedrive - levi9 it services\\desktop\\code9\\code92024\\termin2\\exercise\\taskmngwebapi\\taskmng.domain\\commands\\addtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C45DCB-9BE5-4284-AB74-03A3178EC82C}|TaskMng.Domain\\TaskMng.Domain.csproj|solutionrelative:taskmng.domain\\commands\\addtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C45DCB-9BE5-4284-AB74-03A3178EC82C}|TaskMng.Domain\\TaskMng.Domain.csproj|c:\\users\\r.kresoja\\onedrive - levi9 it services\\desktop\\code9\\code92024\\termin2\\exercise\\taskmngwebapi\\taskmng.domain\\commands\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C45DCB-9BE5-4284-AB74-03A3178EC82C}|TaskMng.Domain\\TaskMng.Domain.csproj|solutionrelative:taskmng.domain\\commands\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C45DCB-9BE5-4284-AB74-03A3178EC82C}|TaskMng.Domain\\TaskMng.Domain.csproj|c:\\users\\r.kresoja\\onedrive - levi9 it services\\desktop\\code9\\code92024\\termin2\\exercise\\taskmngwebapi\\taskmng.domain\\commands\\addprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C45DCB-9BE5-4284-AB74-03A3178EC82C}|TaskMng.Domain\\TaskMng.Domain.csproj|solutionrelative:taskmng.domain\\commands\\addprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Infrastructure\\Repositories\\ToDoTaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskMng.Infrastructure\\Repositories\\ToDoTaskRepository.cs",
+              "ToolTip": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Infrastructure\\Repositories\\ToDoTaskRepository.cs",
+              "RelativeToolTip": "TaskMng.Infrastructure\\Repositories\\ToDoTaskRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:42:52.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoTaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Infrastructure\\EntityConfiguration\\ToDoTaskConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskMng.Infrastructure\\EntityConfiguration\\ToDoTaskConfiguration.cs",
+              "ToolTip": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Infrastructure\\EntityConfiguration\\ToDoTaskConfiguration.cs",
+              "RelativeToolTip": "TaskMng.Infrastructure\\EntityConfiguration\\ToDoTaskConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:42:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Domain\\Commands\\AddUserCommand.cs",
+              "RelativeDocumentMoniker": "TaskMng.Domain\\Commands\\AddUserCommand.cs",
+              "ToolTip": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Domain\\Commands\\AddUserCommand.cs",
+              "RelativeToolTip": "TaskMng.Domain\\Commands\\AddUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:06:38.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Domain\\Commands\\AddTaskCommand.cs",
+              "RelativeDocumentMoniker": "TaskMng.Domain\\Commands\\AddTaskCommand.cs",
+              "ToolTip": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Domain\\Commands\\AddTaskCommand.cs",
+              "RelativeToolTip": "TaskMng.Domain\\Commands\\AddTaskCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:06:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Domain\\Commands\\AddProjectCommand.cs",
+              "RelativeDocumentMoniker": "TaskMng.Domain\\Commands\\AddProjectCommand.cs",
+              "ToolTip": "C:\\Users\\r.kresoja\\OneDrive - Levi9 IT Services\\Desktop\\Code9\\Code92024\\Termin2\\Exercise\\TaskMngWebAPI\\TaskMng.Domain\\Commands\\AddProjectCommand.cs",
+              "RelativeToolTip": "TaskMng.Domain\\Commands\\AddProjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:06:27.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
